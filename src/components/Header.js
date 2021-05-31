@@ -13,7 +13,7 @@ class Header extends Component {
                     <div id="navbtn">menu</div>
                     <ul id="menu-nenu" className="nav-menu">
                         <li><a href="http://dapp.marspool.xyz">HOME</a></li>
-                        <li><a href="http://dapp.marspool.xyz">BENEFITS</a></li>
+                        <li><a href="https://t.me/marspoolxyz">JOIN TELEGRAM</a></li>
                         <li><a href="http://dapp.marspool.xyz">GALLERY</a></li>
                         <li><a href="http://dapp.marspool.xyz">SEED TOKEN</a></li>
                         <li><a href="http://dapp.marspool.xyz">MY WALLET</a></li>
